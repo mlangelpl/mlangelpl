@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, me llamo Angel</h1>
-<h3 align="center">Soy un desarrollador Frontend entusiasta</h3>
+<span align="left">
+  
+- 👋🏻 Hola, mi nombre es angel.
 
-- 💬 Ask me about **HTML, CSS, Angular, Javascript**
+- 🌱 Soy desarrollador frontend aprendiendo backend.
+  
+- 👀 Estoy interesado en aprender todo tipo de lenguajes y desarrollo de videojuegos.
 
-- 📫 How to reach me **m.angel.prds.l@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/angel-paredes-lonasco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-paredes-lonasco/" height="30" width="40" /></a>
-</p>
+- 🔭 Busco colaborar con algun proyecto interesante.
+</span>
 
 
 ## 🚀 Languages and Tools:
