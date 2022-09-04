@@ -12,12 +12,12 @@
 <div align="center">
   
 <a href="https://mlangelpl.github.io/angel-pl" target="_blank">
+  <h3>Mi Portafolio</h3>
     <img align="center" title='Mi Portafolio' src="./img/fondo-porta.png" alt="Angel Paredes Portafolio" height="200" width="390" />
 </a>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> About Me: 
-
 </div>
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> About Me: 
 <span align="left">
  
 ```
