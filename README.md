@@ -1,3 +1,11 @@
+<span>
+  <span>
+    <h3 align="center">"<em>
+Bienvenido a mi GITHUB <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></em>"
+    </h3>
+</span>
+<hr>
+
 <span align="left">
   
 - 👋🏻 Hola, mi nombre es angel.
@@ -38,3 +46,13 @@ desarrollar videojuegos
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlangelpl&theme=radical)
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlangelpl&layout=compact&theme=radical" />
+
+## <br /> 🙋‍♂️ Contactame 
+
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/angel-paredes-lonasco"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+<a href = "https://www.instagram.com/angelpl61/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
+<a href = "mailto:m.angel.prds.l@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
+
+</p>
