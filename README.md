@@ -1,7 +1,7 @@
 <span>
   <span>
     <h3 align="center">"<em>
-Bienvenido a mi GITHUB <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></em>"
+Bienvenido a mi GITHUB</em>" <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
     </h3>
 </span>
 <hr>
