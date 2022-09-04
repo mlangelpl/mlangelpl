@@ -11,7 +11,7 @@
 
 <div align="center">
   
-<a href="https://mlangelpl.github.io/angel-pl" target="_blank">
+<a href="https://mlangelpl.github.io/angel-pl">
     <img align="center" title='Mi Portafolio' src="./img/fondo-porta.png" alt="Angel Paredes Portafolio" height="200" width="390" />
 </a>
 
