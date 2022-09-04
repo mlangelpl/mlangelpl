@@ -37,4 +37,4 @@ desarrollar videojuegos
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlangelpl&theme=radical)
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlangelpl&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlangelpl&layout=compact&theme=radical" />
