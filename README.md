@@ -19,8 +19,9 @@ Bienvenido a mi GITHUB</em> " <img src="https://media.giphy.com/media/12oufCB0My
 
 <div align="center">
   
-<a href="https://mlangelpl.github.io/angel-pl" target="_blank">
+
   <h3>Mi Portafolio</h3>
+  <a href="https://mlangelpl.github.io/angel-pl" target="_blank">
     <img align="center" title='Mi Portafolio' src="./img/fondo-porta.png" alt="Angel Paredes Portafolio" height="200" width="390" />
 </a>
 </div>
